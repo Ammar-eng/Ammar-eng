@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AmmarSalem
-- 👀 I’m interested in ... Data science 
-- 🌱 I’m currently learning ... computer science and data science in Udacity
-- 💞️ I’m looking to collaborate on ... junior data science opportunity
-- 📫 How to reach me ... ammar.salem99@gmail.com , midchapp1@gmail.com
-
+- 👀 I’m interested in ... Business Intelligence 
+- 💞️ I’m looking to collaborate on ... junior BI developer opportunity
+- 📫 How to reach me ... ammar.salem99@gmail.com , +201019950191, +201202227175
+- All reports and dashboards shown here are come from public datashare etc (Kaggle)
+- private projects or any real projects are not shown here because of privacy policy 
 <!---
-Ammar-eng/Ammar-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ammar Salem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
