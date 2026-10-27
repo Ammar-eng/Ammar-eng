@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AmmarSalem
 - 👀 I’m interested in ... Business Intelligence 
 - 💞️ I’m looking to collaborate on ... BI developer opportunity
-- 📫 How to reach me ... ammar.salem99@gmail.com , +201019950191, +201202227175
+- 📫 How to reach me ... ammar.salem99@gmail.com , +201019950191
 - All reports and dashboards shown here are come from public datashare etc (Kaggle)
-- private projects or any real projects are not shown here because of privacy policy
-- my minimum hour rate 10 USD for free lancing projects
+- private projects or any real projects are not shown here due to privacy policy
+- my minimum hour rate 30 USD for freelancing projects
 
 Types of my projects
 - Data collecting (Integration services, Analysis service, web scraps)
